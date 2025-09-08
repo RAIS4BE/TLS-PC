@@ -4,7 +4,11 @@ This dataset comprises 3D point clouds of diverse indoor scenes collected using 
 <img width="1264" height="568" alt="Picture1" src="https://github.com/user-attachments/assets/3fe91ced-d7df-4e59-b26e-7d3440eaeead" />
 
 Please cite the article when using the dataset.
+
 Citation 1 to DDL:
+
 Citation 2 to SDE3 Architecture Studio:
+
 Citation 3 to NUS Baba House: 
+
 ... updating ...
