@@ -20,6 +20,8 @@ Citation 2
 
 (3) SDE3 Design Studio
 
+<img width="2010" height="1019" alt="image" src="https://github.com/user-attachments/assets/d1a3c5f0-17bd-4a15-af96-8160639cb9e7" />
+
 Please cite the article when using the dataset:
 
 Citation 3
