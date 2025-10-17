@@ -9,21 +9,22 @@ Please cite the article when using the dataset:
 Li, M.K., Gan, V.J.L.,* Wang, B.Y., (2025) Integrating hierarchical segmentation and vision-language reasoning for spatially complex and occluded MEP point clouds. Automation in Construction. 106455.  
 
 
-(2) Digital Design Lab & NUS Baba House
-<img width="1264" height="568" alt="Picture1" src="https://github.com/user-attachments/assets/3fe91ced-d7df-4e59-b26e-7d3440eaeead" />
+
+(2) Digital Design Lab
+<img width="222" height="160" alt="Picture1" src="https://github.com/user-attachments/assets/d8217ae5-905f-4949-a03c-d8ffa3b8124d" />
 
 Please cite the article when using the dataset:
 
-Citation 1
 
-Citation 2
+
 
 (3) SDE3 Design Studio
 
 <img width="2010" height="1019" alt="image" src="https://github.com/user-attachments/assets/d1a3c5f0-17bd-4a15-af96-8160639cb9e7" />
 
+<img width="236" height="170" alt="Picture2" src="https://github.com/user-attachments/assets/7da1969a-41e5-4a9d-9d30-1977ddf9476b" />
 Please cite the article when using the dataset:
 
-Citation 3
+
 
 ... updating ...
