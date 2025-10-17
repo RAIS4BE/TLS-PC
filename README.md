@@ -12,7 +12,7 @@ Li, M.K., Gan, V.J.L.,* Wang, B.Y., (2025) Integrating hierarchical segmentation
 
 (2) Digital Design Lab
 
-<img width="1900" height="800" alt="Picture1" src="https://github.com/user-attachments/assets/d8217ae5-905f-4949-a03c-d8ffa3b8124d" />
+<img width="900" height="647" alt="Picture6" src="https://github.com/user-attachments/assets/e9b39531-09c6-4c1a-8e84-de2609cb31f9" />
 
 Please cite the article when using the dataset:
 
@@ -21,9 +21,7 @@ Please cite the article when using the dataset:
 
 (3) SDE3 Design Studio
 
-<img width="2010" height="1019" alt="image" src="https://github.com/user-attachments/assets/d1a3c5f0-17bd-4a15-af96-8160639cb9e7" />
-
-<img width="1900" height="800" alt="Picture2" src="https://github.com/user-attachments/assets/7da1969a-41e5-4a9d-9d30-1977ddf9476b" />
+<img width="1706" height="864" alt="Picture4" src="https://github.com/user-attachments/assets/90103595-e554-4e11-b592-7979ef6a6d25" />
 
 Please cite the article when using the dataset:
 
