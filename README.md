@@ -1,7 +1,6 @@
 # TLS-PC
 This dataset comprises 3D point clouds of diverse indoor scenes collected using a terrestrial laser scanner (Faro) since 2024 on National University of Singapore campus. The scenes include structural components, mechanical and electrical (M&E) systems, and architectural heritage. 
 
-Data collection for the SDE3 Architecture Studio was conducted by Ryan and Vincent Gan. Data collection for the NUS Baba House was undertaken by Jingxuan Li and Vincent Gan. 
 
 **(1) M&E Plant Rooms**
 Data collection and processing for M&E plant rooms was carried out by Boyu Wang, Mingkai Li. The dataset was published as part of an Automation in Construction article. Please cite the article when using the dataset: Li, M.K., Gan, V.J.L.,* Wang, B.Y., (2025) Integrating hierarchical segmentation and vision-language reasoning for spatially complex and occluded MEP point clouds. Automation in Construction. 106455.  
