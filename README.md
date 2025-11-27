@@ -18,7 +18,7 @@ Data collection for the Digital Design Lab was carried out by Kexin Li, Xiuqi Li
 <br><br>
 **(3) NUS Baba House**
 
-Data collection for the SDE3 Architecture Studio was conducted by Ryan and Vincent Gan. Data collection for the NUS Baba House was undertaken by Jingxuan Li and Vincent Gan. Please cite the article when using the dataset: updating soon.
+Data collection for the NUS Baba House was undertaken by Jingxuan Li and Vincent Gan. Please cite the article when using the dataset: updating soon.
 
 <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/5c262b29-7511-4fd5-9a15-b14b96279c6a" />
 
