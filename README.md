@@ -1,5 +1,5 @@
 # TLS-PC
-This dataset comprises 3D point clouds of diverse indoor scenes collected using a terrestrial laser scanner (Faro) since 2024 on National University of Singapore campus. The scenes include structural components, mechanical and electrical (M&E) systems, and architectural heritage. 
+This dataset comprises 3D point clouds of diverse indoor scenes collected using terrestrial laser scanning. The scenes include structural components, mechanical and electrical (M&E) systems, and architectural heritage. 
 
 <br><br>
 **(1) M&E Plant Rooms**
